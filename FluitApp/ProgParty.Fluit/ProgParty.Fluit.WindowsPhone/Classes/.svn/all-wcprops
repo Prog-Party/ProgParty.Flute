@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/FluteApp/!svn/ver/14/Fluit/Classes
+END
+Constants.cs
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/FluteApp/!svn/ver/14/Fluit/Classes/Constants.cs
+END
+Advertising.cs
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/FluteApp/!svn/ver/7/Fluit/Classes/Advertising.cs
+END
+LocalizedStrings.cs
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/FluteApp/!svn/ver/5/Fluit/Classes/LocalizedStrings.cs
+END
+GeoProvider.cs
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/FluteApp/!svn/ver/5/Fluit/Classes/GeoProvider.cs
+END
+IsolatedStorage.cs
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/FluteApp/!svn/ver/7/Fluit/Classes/IsolatedStorage.cs
+END
+LittleWatson.cs
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/FluteApp/!svn/ver/13/Fluit/Classes/LittleWatson.cs
+END
+Threads.cs
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/FluteApp/!svn/ver/10/Fluit/Classes/Threads.cs
+END
